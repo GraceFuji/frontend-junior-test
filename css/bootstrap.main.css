@@ -1,0 +1,164 @@
+.container{
+	width: 100%;
+    padding-right: 0px; 
+    margin-right: 0px;
+	font-family: 'Gabriola', cursive;
+}
+
+/*Navbar*/
+.navbar{ background:#191818; width: 100%;}
+.nav-link , .navbar-brand{ color: #f4f4f4;}
+.nav-link { margin-right: 1em !important;}
+.nav-link:hover{ background: #f4f4f4; color: #f97300; }
+/*Icon*/
+.buy {
+	position: relative;
+	left: 870px;
+}
+.login {
+	position: relative;
+	left: 770px;
+}
+.register {
+	position: relative;
+	left: 740px;
+}
+/*Search*/
+.search{
+	position: relative;
+	left: 345px;
+}
+/*Header*/
+.header {
+	width: 100%;
+	content: center;
+	font-family: 'Brush Script MT', cursive;
+}
+.description{
+    position: relative;
+    top: 30%;
+    margin: auto;
+    padding: 2em;
+    background-color: #fdf0ee5e;
+}
+.description h1{color:#F97300 ;font-size: 80px;}
+
+.description p{
+ color:#666;
+ font-size: 20px;
+ width: 100%;
+ line-height: 1.5;
+}
+.description button{
+ border:1px  solid #F97300;
+ background:#F97300;
+ color:#fff;
+}
+/*article*/
+article h1{
+ color:#F97300;
+ margin: 2em;
+}
+article img{
+ height: 100%;
+ width: 100%;
+}
+
+article .desc{
+ padding: 2em;
+ border-left:4px solid #10828C;
+}
+article .desc h3{
+ color: #10828C;
+}
+article .desc p{
+ line-height:2;
+ color:#888;
+}
+
+#femback {
+	background-color: #fdf0ee5e;
+
+}
+#infback {
+	background-color: #fdf0ee5e;
+
+}
+#feminino {
+background-color: #fdf0ee5e;
+
+}
+/*botaos*/
+.boot {
+	margin-left: 90px;
+}
+
+/*section*/
+section{
+ margin: 45%;
+ padding: 1em;
+ position: absolute;
+ display: block;
+}
+section h1{
+ color:#F97300;
+ margin: 2em;
+}
+section img{
+ height: 100%;
+ width: 100%;
+ border-radius: 50%
+}
+section span{
+ display: block;
+ color: #888;
+ position: absolute;
+ left: 115px;
+}
+section .desc{
+ padding: 2em;
+ border-left:4px solid #10828C;
+}
+section .desc h3{
+ color: #10828C;
+}
+section .desc p{
+ line-height:2;
+ color:#888;*/
+}
+/*Seção 2*/
+
+.img-thumbnail.oferta {
+position: relative;
+top: 56px;
+right: 17px;
+}
+/*footer*/
+footer {
+	background-color:#e2dedd5e;
+	padding: 10px; 
+	width: 100%;
+
+}
+/*formulario*/
+.contact-form{
+ margin: 2em 0;
+}
+.contact-form h1{
+ padding:1em;
+ color: #F97300; 
+}
+.contact-form .right{
+ max-width: 500px;
+}
+
+.contact-form .right .form-control::placeholder{
+ color: #888;
+ font-size: 16px;
+}
+/*endereço*/
+.endereco {
+	padding: 167px;
+	font-size: 20px;
+	width: 100%;
+}

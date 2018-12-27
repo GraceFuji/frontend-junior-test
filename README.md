@@ -34,13 +34,4 @@ O prazo de entrega foi informado no e-mail de convite.
 # Espaço para descrever a solução
 
 
- Olá, assim como pede os requisitos, criei uma página html com bootstrap 4. Utilizei uma interface simples e clean na qual possibilite o o fácil e rápido entendimento do sistema pelo usuário. A distribuição dos elementos na estrutura da página, me basiei em 3 sites, sendo eles:
- https://www.miraluxo.com.br/
- https://www.cjfashion.com/?gclid=CjwKCAiA3vfgBRB9EiwAkfpd3Bou-9uGOqv0U276e9ChujDl1L5wCqxAIRbhTdbkgx1Qg-5JuhmdgBoCFd0QAvD_BwE
- https://www.farfetch.com/br/
- 
- Os sites citados possuem uma interface bem agradável e intuitive, baseado nisso, me inspirei nelas para produzir a minha página. Com relação as cores, pude perceber que para esse ramo, o mais simples melhor se destaca, então utilizei apenas cores claras e neutras.Como era apenas uma página a ser criada, tomei a liberdade de "linkar" as seções aos menus da navegação global, dando aquele ar de site completo. rsrs. 
- Em relação as ferramentas, eu já havia estudado sobre o bootstrap 3, então foi mais fácil a programação básica através do bootstrap, embora não gostei de não ter mais gliphycons.rsrs.
- Minha maior dificuldade foi a utilização do github, também havia visto sobre ele, mas de uma maneira bem teórica, então briguei um pouco com ele. 
- Desde já agradeço a oportunidade de participar desse processo seletivo.
- obrigada.
+ ESCREVA AQUI COMO VOCÊ RESOLVEU A QUESTÃO
